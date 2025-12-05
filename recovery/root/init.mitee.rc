@@ -1,5 +1,4 @@
 service tee-supplicant /vendor/bin/tee-supplicant
-    class core
     user root
     group root
     disabled
